@@ -4,7 +4,7 @@ Simplified two-level model
 
 .. note:: The twol.py program is still under development and so is this documentation
 
-The morphological two-level model dates back to [koskenniemi1983]_ and is characterized by the descritpion of phonological or
+The morphological two-level model dates back to [koskenniemi1983]_ and is characterized by the description of phonological or
 morphophonological alternations as a direct relation between the
 surface forms and their underlying lexical or morphophonemic forms. It differs from the classical generative phonology by explaining the alternations using parallel rules rather than as a cascade of successive rules, see [karttunen1993]_ for a demonstration of this difference.  The differences between the traditional two-level rules and the rules in the simplified two-level model are discussed in detail in a separate section, see :doc:`differences`.
 
